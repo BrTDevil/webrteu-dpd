@@ -9,12 +9,12 @@
         "dpd",
         "shipping"
     ],
-    "homepage": "https://github.com/WeBRTeu/dpd",
+    "homepage": "https://github.com/BrTDevil/webrteu-dpd",
     "authors": [
         {
             "name": "WeBRTeu",
             "email": "pfa.razvan.bodnariu@gmail.com",
-            "homepage": "https://webrteu.eu"
+            "homepage": "https://webrt.eu"
         }
     ],
     "require": {

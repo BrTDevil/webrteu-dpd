@@ -101,7 +101,7 @@ Vezi [CHANGELOG.md](CHANGELOG.md).
 
 ## Autor
 
-[WeBRTeu](https://webrteu.eu)
+[WeBRTeu](https://webrt.eu)
 
 ## Licență
 
